@@ -1,0 +1,17 @@
+{
+  "name": "simple-search",
+  "authors": [
+    "GenesisMRainer <michael.rainer@genesisworld.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
