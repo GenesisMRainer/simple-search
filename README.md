@@ -17,11 +17,11 @@ To show the search
 
 ### Document Page
 
-<http://bstavroulakis.github.io/simple-search/components/simple-search/>
+<https://github.com/GenesisMRainer/simple-search/components/simple-search>
 
 ### Demo Page
 
-<http://bstavroulakis.github.io/simple-search/components/simple-search/demo/>
+<https://github.com/GenesisMRainer/simple-search/components/simple-search/demo/>
 
 ### Styling
 The following custom properties and mixins are available for styling:
